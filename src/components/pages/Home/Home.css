@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
+
+.searchbar{
+  height: 50%;
+  margin-top: 50px;
+}
+
+.card{
+  background: #faaffa;
+}
+.weatherIcon {
+  justify-content: space-around;
+  height: 20%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-family: 'weathericons';
+  display: flex;
+  align-items: center;
+  justify-content: content;
+  font-size: 60px;
+  flex: 0em;
+  margin-top: 50px;
+
+}
+
+.description{
+  justify-content: space-around;
+  height: 20%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-family: 'weathericons';
+  display: flex;
+  align-items: center;
+  justify-content: content;
+  font-size: 60px;
+  flex: 0em;
+  margin-top: 50px;
+}
+
+.temperature{
+  justify-content: space-around;
+  height: 20%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-family: 'weathericons';
+  display: flex;
+  align-items: center;
+  justify-content: content;
+  font-size: 20px;
+  flex: 0em;
+  margin-top: 50px;
+}
+
+.country{
+  justify-content: space-around;
+  height: 20%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-family: 'weathericons';
+  display: flex;
+  align-items: center;
+  justify-content: content;
+  font-size: 20px;
+  flex: 0em;
+  margin-top: 50px;
+}
+
